@@ -1,1 +1,0 @@
-../../../../.bmad-aisg-aiml/tasks/validate-aiml-story.md

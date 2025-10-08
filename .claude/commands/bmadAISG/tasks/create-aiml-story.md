@@ -1,1 +1,0 @@
-../../../../.bmad-aisg-aiml/tasks/create-aiml-story.md

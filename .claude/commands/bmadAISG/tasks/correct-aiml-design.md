@@ -1,1 +1,0 @@
-../../../../.bmad-aisg-aiml/tasks/correct-aiml-design.md

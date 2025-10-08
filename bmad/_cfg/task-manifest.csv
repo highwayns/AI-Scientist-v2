@@ -1,0 +1,11 @@
+name,displayName,description,module,path
+"advanced-elicitation","advanced-elicitation","","aisg","bmad/aisg/tasks/advanced-elicitation.md"
+"aiml-create-doc","aiml-create-doc","","aisg","bmad/aisg/tasks/aiml-create-doc.md"
+"aiml-design-brainstorming","aiml-design-brainstorming","","aisg","bmad/aisg/tasks/aiml-design-brainstorming.md"
+"aiml-execute-checklist","aiml-execute-checklist","","aisg","bmad/aisg/tasks/aiml-execute-checklist.md"
+"aiml-shard-doc","aiml-shard-doc","","aisg","bmad/aisg/tasks/aiml-shard-doc.md"
+"correct-aiml-design","correct-aiml-design","","aisg","bmad/aisg/tasks/correct-aiml-design.md"
+"create-aiml-story","create-aiml-story","","aisg","bmad/aisg/tasks/create-aiml-story.md"
+"create-next-aiml-story","create-next-aiml-story","","aisg","bmad/aisg/tasks/create-next-aiml-story.md"
+"create-research-doc","create-research-doc","","aisg","bmad/aisg/tasks/create-research-doc.md"
+"validate-aiml-story","validate-aiml-story","","aisg","bmad/aisg/tasks/validate-aiml-story.md"
